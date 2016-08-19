@@ -1,4 +1,2 @@
-words
-=====
-
-some texts.
+## Requirements
+- [jieba](https://github.com/fxsjy/jieba)
